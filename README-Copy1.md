@@ -1,6 +1,6 @@
 # Title
 
-**Authors**: Anita Camlic, Eliot Kmeic
+**Authors**: Anita Camlic, Eliot Kmiec
 
 ## Overview
 
