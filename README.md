@@ -84,9 +84,12 @@ For any additional questions, please contact **Anita Camlic & anitacamlic@gmail.
 Describe the structure of your repository and its contents, for example:
 
 ```
-├── README.md                           <- The top-level README for reviewers of this project
-├── Movie_Studio_Analysis.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── Movie_Studio_Analysis.pdf         <- PDF version of project presentation
-├── Data                                <- Both sourced externally and generated from code
-└── images<- Both sourced externally and generated from code
+├── README.md                              <- The top-level README for reviewers of this project
+├── Movie_Studio_Analysis.ipynb            <- Narrative documentation of analysis in Jupyter notebook
+├── Movie_Studio_Analysis.pdf              <- PDF version of project presentation
+├── Data                                   <- Where we stored the data for this project
+├── workbooks                              <- Primary workbooks used during project
+├── LICENSE                                <- GNU License
+├── charts_jpg                             <- Charts generated from our notebook
+└── images                                 <- Both sourced externally and generated from code
 ```
